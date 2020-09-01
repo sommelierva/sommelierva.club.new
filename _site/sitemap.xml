@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2020/07/22/Blog-do-Sommelierva.html</loc>
+<lastmod>2020-07-22T23:45:13-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/07/28/Malana-Cream_-um-dos-melhores-Haxixes-do-mundo-produzido-em-uma-remota-vila-no-norte-da-india.html</loc>
+<lastmod>2020-07-28T00:45:13-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/08/06/A-cultura-da-maconha-no-Afeganistao_-Conheca-a-historia-de-um-dos-maiores-produtores-de-haxixe-do-mundo.html</loc>
+<lastmod>2020-08-06T00:45:13-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/08/14/Haxixe-Pak_-A-Historia-e-Cultura-da-Maconha-no-Paquistao.html</loc>
+<lastmod>2020-08-14T10:45:13-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
