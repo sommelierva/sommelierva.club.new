@@ -4,6 +4,7 @@ description:        Textos sobre a cultura da Maconha em locais Exóticos
 author:             Sommelierva
 baseurl:            ""
 url:                "https://startbootstrap.github.io"
+theme: jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   
