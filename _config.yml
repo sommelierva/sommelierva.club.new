@@ -3,7 +3,7 @@ email:              sommeliervablog@gmail.com
 description:        Textos sobre a cultura da Maconha em locais Exóticos
 author:             Sommelierva
 baseurl:            "/sommelierva.club.new"
-url:                "https://startbootstrap.github.io"
+url:                "https://sommelierva.github.io"
 theme: jekyll-theme-clean-blog
 
 # Social Profiles
