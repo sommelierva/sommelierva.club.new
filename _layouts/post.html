@@ -19,7 +19,7 @@ layout: default
             {% endif %}
             <span class="meta">Publicado por
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              em {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
+              em {{ page.date | date: '%d %B, %Y' }} &middot; {% include read_time.html
               content=page.content %}
             </span>
           </div>
